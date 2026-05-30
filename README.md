@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gauri Umesh Kawale</h1>
 <h3 align="center">A passionate learner having strong foundation in data science</h3>
 
-- 
+
 
 - 👯 I’m looking to collaborate on **data science**
 
